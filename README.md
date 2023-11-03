@@ -23,7 +23,7 @@ Application of ChromaFactor to the dataset from Su et al., demonstrating its uti
 The core module containing the implementation of the ChromaFactor approach.
 
 **DeepLearningChromatinStructure_code.py**  
-Supporting code for chromatin structure analysis as described in [Nature Communications](doi.org/10.1038/s41467-021-23831-4).
+Supporting code for ORCA dataset preprocessing as described in [Nature Communications](doi.org/10.1038/s41467-021-23831-4).
 
 **file_utils.py**  
 Utility functions for file handling within the ChromaFactor analysis pipeline.
