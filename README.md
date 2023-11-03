@@ -1,4 +1,5 @@
-# ChromaFactor
+# ChromaFactor: deconvolution of single-molecule chromatin organization with non-negative matrix factorization
+
 
 <img width="698" alt="ChromaFactor_fig" src="https://github.com/lgunsalus/ChromaFactor/assets/11052222/6cca0b8c-d111-4397-8168-031b9732dd86">
 
@@ -40,8 +41,8 @@ Scripts for genomic annotation, as detailed in the preprint available at [bioRxi
 Functions dedicated to plotting and visualizing data within the ChromaFactor framework.
 
 **preprocessing_utils.py**  
-General preprocessing utilities
+General preprocessing utilities.
 
 **utils.py**  
-Other assorted functions
+Other assorted functions.
 
