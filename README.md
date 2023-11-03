@@ -1,5 +1,7 @@
 # ChromaFactor
 
+<img width="698" alt="ChromaFactor_fig" src="https://github.com/lgunsalus/ChromaFactor/assets/11052222/6cca0b8c-d111-4397-8168-031b9732dd86">
+
 ## Introduction
 The investigation of chromatin organization in single cells is pivotal for understanding the causal relationships between genome structure and function. However, the inherent heterogeneity in single-molecule data poses significant analytical challenges. ChromaFactor is our novel computational approach to deconvolve single-molecule chromatin organization datasets into distinguishable primary components and identify key cell subpopulations driving transcriptional signal. Our method's efficacy is demonstrated through its application to single-molecule imaging datasets across various genomic scales, where it has identified strong correlations between templates and key functional phenotypes, including active transcription, enhancer-promoter proximity, and genomic compartmentalization.
 
